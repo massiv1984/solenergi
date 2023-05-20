@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  13 MAY 2023 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.15)  16 MAY 2023 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,46 +552,43 @@ TI Gymnasiet_Symbol_print_svart.png>] (C:/code\solenergi\auxil\main.toc)
 
 [1]
 
-LaTeX Warning: Citation 'Jens' on page 2 undefined on input line 85.
+LaTeX Warning: Citation 'Jens' on page 2 undefined on input line 83.
 
 
-LaTeX Warning: Citation 'Fraenkel' on page 2 undefined on input line 85.
+LaTeX Warning: Citation 'Fraenkel' on page 2 undefined on input line 83.
 
 
-LaTeX Warning: Citation 'fermi' on page 2 undefined on input line 85.
+LaTeX Warning: Citation 'fermi' on page 2 undefined on input line 83.
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-8.
+6.
 (C:\Users\emil.kero\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 [2]
 
 LaTeX Warning: File `../images/accelerationTime.png' not found on input line 10
-6.
+4.
 
 
-main.tex:106: Package pdftex.def Error: File `../images/accelerationTime.png' n
+main.tex:104: Package pdftex.def Error: File `../images/accelerationTime.png' n
 ot found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 ...extwidth]{../images/accelerationTime.png}
+l.104 ...extwidth]{../images/accelerationTime.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Empty bibliography on input line 110.
+LaTeX Warning: Empty bibliography on input line 108.
 
 [3] (C:/code\solenergi\auxil\main.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -625,9 +622,9 @@ pk> <C:\Users\emil.kero\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
 type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/emil.kero/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emil.kero/AppData/Loc
 al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on C:/code\solenergi\out\main.pdf (4 pages, 119813 bytes).
+Output written on C:/code\solenergi\out\main.pdf (4 pages, 118504 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
+ 306 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
